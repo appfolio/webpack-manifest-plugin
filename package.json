@@ -1,5 +1,5 @@
 {
-  "name": "webpack-manifest-plugin",
+  "name": "@appfolio/webpack-manifest-plugin",
   "version": "1.3.3",
   "description": "webpack plugin for generating asset manifests",
   "main": "index.js",
