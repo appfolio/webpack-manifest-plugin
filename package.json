@@ -2,6 +2,9 @@
   "name": "@appfolio/webpack-manifest-plugin",
   "version": "1.3.3",
   "description": "webpack plugin for generating asset manifests",
+  "publishConfig": {
+    "registry": "https://nexus.dev.appf.io/repository/npm-hosted/"
+  },
   "main": "index.js",
   "scripts": {
     "test": "nyc jasmine"
