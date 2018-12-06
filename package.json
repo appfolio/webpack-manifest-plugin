@@ -1,6 +1,6 @@
 {
   "name": "@appfolio/webpack-manifest-plugin",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "webpack plugin for generating asset manifests",
   "publishConfig": {
     "registry": "https://nexus.dev.appf.io/repository/npm-hosted/"
